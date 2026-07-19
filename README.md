@@ -6,9 +6,9 @@ OptiCrop is a Machine Learning-based web application that recommends the most su
 
 ## 🔗 Live Demo
 
-**[https://opticrop-407a.onrender.com](https://opticrop-407a.onrender.com)**
+**[https://opticrop-u9b8.onrender.com](https://opticrop-u9b8.onrender.com)**
 
-> Note: Hosted on Render's free tier — the app may take 30–50 seconds to load on first visit after a period of inactivity.
+
 
 ---
 
