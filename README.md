@@ -144,14 +144,7 @@ http://127.0.0.1:5000
 
 ---
 
-## 👨‍💻 Author
 
-**Kushal Sai Kumar Antarvedi**
-
-Project: OptiCrop  
-Team ID: SWTID-2026-5714
-
----
 
 ## 📄 License
 
