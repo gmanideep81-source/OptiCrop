@@ -88,7 +88,7 @@ The crop recommendation model was developed using Scikit-learn. The dataset was 
 ### Clone the repository
 
 ```bash
-git clone https://github.com/pavanvoleti/OptiCrop.git
+git clone https://github.com/gmanideep81-source/OptiCrop.git
 ```
 
 ### Navigate to the project folder
@@ -129,12 +129,4 @@ http://localhost:5000
   <img width="957" height="506" alt="image" src="https://github.com/user-attachments/assets/27af7b9e-9d46-4f7f-bd04-c7e646a3e27f" />
 ---
 
-## 👨‍💻 Author
 
-**Pavan Teja**
-
-GitHub: https://github.com/pavanvoleti
-
----
-
-⭐ If you found this project helpful, consider giving it a star.
